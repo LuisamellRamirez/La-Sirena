@@ -1,0 +1,29 @@
+body{
+background-color: rgb(247, 231, 10);
+}
+
+*{
+    text-align: center;
+}
+#b1{
+    color: rgb(40, 174, 226);
+    font-size: 38;
+}
+
+.imagen1 {
+    text-align: center;
+    width: 300;
+    }
+.imagen2{
+    width: 400;
+}
+
+#p1{
+    font-size: 20px;
+}
+
+.titulo1,.titulo2{
+    color: rgb(10, 10, 10);
+    font-size:25px ;
+
+}
